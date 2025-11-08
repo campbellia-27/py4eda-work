@@ -1,3 +1,4 @@
+
 # HW3A Solution - Git and Version Control
 ## Part 1: Repository Cloning
 I successfully cloned the class repository from `https://github.com/olearydj/INSY6500` to
@@ -17,3 +18,18 @@ The three-stage workflow:
 1. Working Directory: Where I edit files
 2. Staging Area: Where I prepare commits with `git add`
 3. Repository: Where commits are permanently stored with `git commit`
+## Part 3: GitHub Publishing
+Successfully published repository to GitHub:
+- Used `git remote add origin` to connect local repo to GitHub
+- Used `git push -u origin main` to upload commits
+- Verified all files and commits are visible on GitHub
+### The Remote Connection
+My local repository is now connected to GitHub:
+- `git remote -v` shows the remote URL
+- `git push` will send my commits to GitHub
+- `git pull` will get updates from GitHub (if changes are made on GitHub)
+### Details
+Complete this section with details from your setup:
+- Repository URL: ...
+- Output of `git remote -v`:
+- The output of `git log --oneline`:
