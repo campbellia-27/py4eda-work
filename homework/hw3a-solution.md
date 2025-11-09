@@ -41,9 +41,15 @@ My local repository is now connected to GitHub:
 - `git pull` will get updates from GitHub (if changes are made on GitHub)
 ### Details
 Complete this section with details from your setup:
-- Repository URL: ...
-- Output of `git remote -v`:
-- The output of `git log --oneline`:
+- Repository URL: https://github.com/campbellia-27/py4eda-work
+- Output of `git remote -v`: origin  https://github.com/campbellia-27/py4eda-work.git (fetch)
+origin  https://github.com/campbellia-27/py4eda-work.git (push)
+- The output of `git log --oneline`: 1b51362 (HEAD -> master, origin/master) Add empty folders with .gitkeep
+b4c2109 Updated hw3a-solution with final edits
+c68b59e Complete Part 3 documentation
+d52b607 Add hw3a solution document
+70bb0ba Initial commit: Add README and .gitignore
+
 ## Questions
 ### Reflections
 #### **Question 1:**
