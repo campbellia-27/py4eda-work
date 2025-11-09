@@ -59,7 +59,7 @@ files, stage changes, commit with messages, and push to GitHub.
 a) Before this assignment, how did you typically manage different versions of your work (e.g.,
 assignments, code, documents)? Compare that approach to using Git. What are 2-3 specific
 advantages Git provides?
-- Before this assignment, I was manually saving every time I made a change to code. This led to having many versions of the same code saved in one project folder. Although this is a way to save code over time, it becomes disorganized very quickly, and if you forget to save an od version, you could be in big trouble if you change your code and it fails to run. With git, there are many advantages that outweigh what I was doing before:
+- Before this assignment, I was manually saving every time I made a change to code. This led to having many versions of the same code saved in one project folder. Although this is a way to save code over time, it becomes disorganized very quickly, and if you forget to save an old version, you could be in big trouble if you change your code and it fails to run. With git, there are many advantages that outweigh what I was doing before:
 1. With Git, all changes made to your code can quickly be found because git has a history of all the commits you have made during your project.
 2. Git also allows you to work on the same project as someone else without overwriting changes. This makes it very good for collaboration, and I know that many of my friends in computer science utilize git and git hub for group projects.
 3. This advantage is similar to the first one listed but it allows for more clarity on how changes have been made over time. This makes it easy to address questions about research and how you might have learned something over time.
